@@ -1,4 +1,4 @@
-# DCSD-Net: Module Implementations
+#  Module Implementations
 
 This repository provides the official PyTorch implementations of the **core proposed modules**
 introduced in the paper:
